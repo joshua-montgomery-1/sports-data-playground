@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/clients/">
+    <Project Path="src/clients/SportsData.Clients.MlbStatsApi/SportsData.Clients.MlbStatsApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+  <Folder Name="/tests/clients/">
+    <Project Path="tests/SportsData.Clients.MlbStatsApi.Tests/SportsData.Clients.MlbStatsApi.Tests.csproj" />
+  </Folder>
+</Solution>
